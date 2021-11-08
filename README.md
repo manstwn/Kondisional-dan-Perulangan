@@ -1,8 +1,8 @@
 # Kondisional dan Perulangan Python
 # Iman Setiawan
 
-*PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 1*\
-*Program Menentukan Bilangan Terbersar*
+**PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 1**\
+**Program Menentukan Bilangan Terbersar**
 
 Ini adalah code pyhton saya\
 Sangat sederhana, hanya menggunakan if dan elif.\
@@ -30,8 +30,8 @@ Dan ini adalah hasil output dari Program di atas.\
 
 --------------------------------------------------------------
 
-*PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 2*\
-*Program Mengurutkan Bilangan Sederhana*
+**PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 2**\
+**Program Mengurutkan Bilangan Sederhana**
 
 Ini adalah code pyhton saya\
 Saya menggunakan for in, range, dan variabel list untuk menyimpan bilangan.
@@ -52,8 +52,8 @@ Dan ini adalah hasil output dari Program di atas.\
 
 --------------------------------------------------------------
 
-*PDF 07 Kondisional dan Perulangan - Lab 3 Latihan 1*\
-*Program Perulangan Bertingkat*
+**PDF 07 Kondisional dan Perulangan - Lab 3 Latihan 1**\
+**Program Perulangan Bertingkat**
 
 Ini adalah code pyhton saya\
 Saya menggunakan for in, range dan merapihkan hasil nya.
@@ -71,8 +71,8 @@ Dan ini adalah hasil output dari Program di atas.\
 
 --------------------------------------------------------------
 
-*PDF 07 Kondisional dan Perulangan - Lab 3 Latihan 2*\
-*Program Menampilkan Bilangan Acak Kurang dari 0.5*
+**PDF 07 Kondisional dan Perulangan - Lab 3 Latihan 2**\
+**Program Menampilkan Bilangan Acak Kurang dari 0.5**
 
 Ini adalah code pyhton saya\
 Saya menggunakan for in, dan range
