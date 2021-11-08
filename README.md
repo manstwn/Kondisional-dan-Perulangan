@@ -1,12 +1,12 @@
 # Kondisional dan Perulangan Python
 # Iman Setiawan
 
-<p>PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 1</p>
-<p>Program Menentukan Bilangan Terbersar</p>
+<p>PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 1
+Program Menentukan Bilangan Terbersar
 
-<p>Ini adalah code pyhton saya</p>
+Ini adalah code pyhton saya
 Sangat sederhana, hanya menggunakan if dan elif.
-<p>Apabila input selain angka maka program akan berhenti.</p>
+Apabila input selain angka maka program akan berhenti.</p>
 ~~~
 #Program Menentukan Bilangan Terbersar
 
