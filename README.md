@@ -5,8 +5,8 @@
 <p>Program Menentukan Bilangan Terbersar</p>
 
 <p>Ini adalah code pyhton saya</p>
-<p>Sangat sederhana, hanya menggunakan if dan elif.</p>
-<p>Apabila input selain angka maka program akan berhenti.</p>
+<p>Sangat sederhana, hanya menggunakan if dan elif.
+Apabila input selain angka maka program akan berhenti.</p>
 ~~~
 #Program Menentukan Bilangan Terbersar
 
