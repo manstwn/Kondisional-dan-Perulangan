@@ -4,9 +4,9 @@
 PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 1
 <br>Program Menentukan Bilangan Terbersar</br>
 
-<br>Ini adalah code pyhton saya</br>
-<br>Sangat sederhana, hanya menggunakan if dan elif.</br>
-<br>Apabila input selain angka maka program akan berhenti.</br>
+<br>Ini adalah code pyhton saya
+Sangat sederhana, hanya menggunakan if dan elif.
+Apabila input selain angka maka program akan berhenti.</br>
 
 ~~~
 #Program Menentukan Bilangan Terbersar
@@ -26,7 +26,7 @@ else:
 ~~~
 
 Dan ini adalah hasil output dari Program di atas.
-![screenshot output](screenshot/ss1.png)
+<br>![screenshot output](screenshot/ss1.png)</br>
 
 --------------------------------------------------------------
 
