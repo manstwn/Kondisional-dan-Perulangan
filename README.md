@@ -1,5 +1,5 @@
-#Kondisional dan Perulangan Python
-#Iman Setiawan
+# Kondisional dan Perulangan Python
+# Iman Setiawan
 
 PDF 07 Kondisional dan Perulangan - Lab 2 Latihan 1
 Program Menentukan Bilangan Terbersar
